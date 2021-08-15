@@ -25,3 +25,15 @@ Newer projects:
 These lists are by no means exhastive!
 
 **Any questions, or want to get involved, please get in touch. 🐘**
+
+## Sponsor my work
+
+**If you use any of my packages, please consider sponsoring me!**
+
+<a href="https://github.com/sponsors/GrahamCampbell"><img width="749" alt="image" src="https://user-images.githubusercontent.com/2829600/129493499-f256dad4-da5b-4fc9-b6a5-3a98260fdf46.png"></a>
+
+## Links
+
+* Blog: Coming soon!
+* Twitter: https://twitter.com/GrahamJCampbell
+* StyleCI: https://styleci.io/
