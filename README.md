@@ -12,6 +12,7 @@ I am the maintainer of the following popular repositories and organisations:
 * https://github.com/GitLabPHP
 * https://github.com/chrome-php
 * https://github.com/opis/closure
+* https://github.com/laravel-auto-presenter/laravel-auto-presenter
 
 I have also been actively contributing to:
 
