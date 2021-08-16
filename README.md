@@ -23,7 +23,7 @@ Newer projects:
 
 * https://github.com/cloudevents/sdk-php
 
-These lists are by no means exhastive!
+These lists are by no means exhaustive!
 
 **Any questions, or want to get involved, please get in touch. 🐘**
 
