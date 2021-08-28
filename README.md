@@ -5,6 +5,7 @@
 I am the maintainer of the following popular repositories and organisations:
 
 * https://github.com/vlucas/phpdotenv
+* https://github.com/schmittjoh/php-option
 * https://github.com/guzzle
 * https://github.com/GrahamCampbell
 * https://github.com/BitbucketPHP
