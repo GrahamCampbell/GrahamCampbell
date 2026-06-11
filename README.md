@@ -12,19 +12,10 @@ I am the maintainer of the following popular repositories and organisations:
 * https://github.com/DigitalOceanPHP
 * https://github.com/GitLabPHP
 * https://github.com/chrome-php
-* https://github.com/opis/closure
-* https://github.com/laravel-auto-presenter/laravel-auto-presenter
-
-I have also been actively contributing to:
-
-* https://github.com/laravel/framework
-* https://github.com/php-http
-
-Newer projects:
-
+* https://github.com/oss-serverless
 * https://github.com/cloudevents/sdk-php
 
-These lists are by no means exhaustive!
+I am also the 2nd largest commitor to https://github.com/laravel/framework!
 
 **Any questions, or want to get involved, please get in touch. 🐘**
 
@@ -36,6 +27,6 @@ These lists are by no means exhaustive!
 
 ## Links
 
-* Blog: Coming soon!
-* Twitter: https://twitter.com/GrahamJCampbell
+* Twitter: https://x.com/GrahamJCampbell
+* LinkedIn: https://www.linkedin.com/in/grahamjcampbell123/
 * StyleCI: https://styleci.io/
