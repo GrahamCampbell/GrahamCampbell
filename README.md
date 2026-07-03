@@ -17,13 +17,20 @@ I am the maintainer of the following popular repositories and organisations:
 
 I am also the 2nd largest commitor to https://github.com/laravel/framework!
 
-**Any questions, or want to get involved, please get in touch. 🐘**
+<br>
+
+<div align="center">
+  <a href="https://commit-history.com/GrahamCampbell">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/GrahamCampbell?theme=dark" />
+      <img alt="GrahamCampbell's commit history" src="https://commit-history.com/embed/GrahamCampbell" />
+    </picture>
+  </a>
+</div>
 
 ## Sponsor my work
 
-**If you use any of my packages, please consider sponsoring me!**
-
-<a href="https://github.com/sponsors/GrahamCampbell"><img width="749" alt="image" src="https://user-images.githubusercontent.com/2829600/129493499-f256dad4-da5b-4fc9-b6a5-3a98260fdf46.png"></a>
+**If you use any of my packages, please consider [sponsoring me](https://github.com/sponsors/GrahamCampbell)!**
 
 ## Links
 
